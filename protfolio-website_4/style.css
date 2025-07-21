@@ -1,0 +1,20 @@
+*{
+    background-color:#061429;
+} 
+
+.fs-4{
+    color: #fff;
+    font-family: Rubik, sans-serif;
+    font-weight:600;
+}
+.nav-pills{
+    font-family:"Roboto Slab",serif;
+    opacity:1;
+}
+.profile-pic img{
+    margin:1.5rem;
+    padding:.75rem;
+    border-radius:50%;
+    border: 5px solid #fff;
+    flex-shrink:1;
+}
